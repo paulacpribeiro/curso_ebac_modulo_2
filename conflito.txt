@@ -2,3 +2,4 @@ Olá!
 
 Eu sou o conflito.
 Realizado na branch-a. 
+Alteração na branch-b
